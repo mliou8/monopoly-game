@@ -1,0 +1,20 @@
+#board{
+  margin: 0 auto;
+}
+
+/* .alive td {
+  border: 1px solid #ddd;
+  width: 25px;
+  height: 25px;
+} */
+
+#board td{
+  border: 1px solid #ddd;
+  width: 18px;
+  height: 18px;
+}
+
+body {
+	padding:10px;
+}
+
